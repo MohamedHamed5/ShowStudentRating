@@ -1,0 +1,4 @@
+Brief Idea about the output of the code:
+
+The user enters their name, and the system checks if it exists in our database. If the name is found, the user (student) selects their major. Then, the system displays the subjects within that major along with the grades, evaluations, and rating. If the name is not found in our database, the user will be given the option to either proceed and register with us or discontinue the process. If the user chooses to register, they will first select their major (after entering their name for the first time). Then, the user inputs their data, including grades and the number of credit hours for each subject. Subsequently, the system displays their grades, evaluations, and overall assessments.  
+The additional details of the code, including handling various user input scenarios, will be addressed when the code is implemented for full details.
